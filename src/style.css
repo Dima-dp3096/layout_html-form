@@ -1,6 +1,6 @@
 
 .groups {
-  margin: 20px;
+  margin: 20px 0;
 }
   
 .inputs {
@@ -9,8 +9,4 @@
   
 .comments {
   margin-bottom: 10px 0;
-}
-  
-.button {
-  margin: 0 20px;
 }
