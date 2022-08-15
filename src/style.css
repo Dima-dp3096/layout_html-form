@@ -1,12 +1,13 @@
 
 .groups {
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
   
 .inputs {
-  margin: 5px 0;
+  margin-bottom: 10px;
+  display: block;
 }
   
 .comments {
-  margin-bottom: 10px 0;
+  margin-bottom: 10px;
 }
